@@ -10,8 +10,7 @@ namespace ConsoleApplication5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test123");
-rewrwe
+            Console.WriteLine("Test2");
         }
     }
 }
