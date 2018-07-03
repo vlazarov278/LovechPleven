@@ -5,7 +5,6 @@ namespace Algorithms
 {
     class ArrayList
     {
-
         private class Node
         {
             private object value;
