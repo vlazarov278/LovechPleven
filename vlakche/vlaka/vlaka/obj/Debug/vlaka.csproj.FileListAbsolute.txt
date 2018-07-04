@@ -1,0 +1,14 @@
+C:\Users\Physics05\Pictures\vlaka\vlaka\bin\Debug\vlaka.exe.config
+C:\Users\Physics05\Pictures\vlaka\vlaka\bin\Debug\vlaka.exe
+C:\Users\Physics05\Pictures\vlaka\vlaka\bin\Debug\vlaka.pdb
+C:\Users\Physics05\Pictures\vlaka\vlaka\obj\Debug\vlaka.csprojResolveAssemblyReference.cache
+C:\Users\Physics05\Pictures\vlaka\vlaka\obj\Debug\vlaka.csproj.CoreCompileInputs.cache
+C:\Users\Physics05\Pictures\vlaka\vlaka\obj\Debug\vlaka.exe
+C:\Users\Physics05\Pictures\vlaka\vlaka\obj\Debug\vlaka.pdb
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\bin\Debug\vlaka.exe.config
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\bin\Debug\vlaka.exe
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\bin\Debug\vlaka.pdb
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\obj\Debug\vlaka.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\obj\Debug\vlaka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\obj\Debug\vlaka.exe
+C:\Users\PC\source\repos\vlaka\vlaka\vlaka\obj\Debug\vlaka.pdb
